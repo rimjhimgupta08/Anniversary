@@ -96,7 +96,7 @@ body{
       padding: 30px;
       border: 2px solid black;
       background-color: cadetblue;
-      font-size: 17px;
+      font-size: 19px;
 }
 
 @media screen and (max-width:400px) {
